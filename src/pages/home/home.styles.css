@@ -1,0 +1,14 @@
+
+.loginLink:hover{
+    text-decoration: underline;
+    background-color: #f2f4f8;
+    
+}
+textarea:focus {
+    outline: none !important;
+    box-shadow: 0 0 10px #dddfe2;
+    border-radius: 10px;
+}
+textarea{
+  padding: 10;
+}

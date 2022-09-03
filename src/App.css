@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  height: fit-content;
+  background-color: #000000;
+  color: rgb(243, 237, 237);
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+ 
+
+#root{
+  height: fit-content ;
+  min-height: 100%;
+  background-color:  #000000;
+  color: rgb(243, 237, 237);
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  height: fit-content; 
+  background-color: black;
+  color:white;
+}
