@@ -2,8 +2,11 @@ Developed by: @Arpit Srivastava
 
 # Used Technologies:
 Back-end: Java, Spring (Boot, Data, Security), MongoDB, JUnit
+
 Front-end: HTML/CSS, React.js, Material-UI
+
 Security: JWT
+
 Cloud Deployment: AWS
 
 ====================================================================================================
